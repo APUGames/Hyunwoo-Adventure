@@ -3464,8 +3464,8 @@
                                     "He seems to have\nbeen stabbed in\nthe chest, dying",
                                     "Luke says:\n\"Hyunwoo....he\nwants to gain",
                                     "magic powers and\nuse them to ",
-                                    "terrorize\nAPU....starting\nfrom your dorm ",
-                                    "and reaching\nacross all across\ncampus....\"",
+                                    "terrorize our\ncollege...",
+                                    "and reach\nacross all across\ncampus....\"",
                                     "Luke explains:",
                                     "\"He used his magic\nto turn the\nothers...\"",
                                     "Luke continues:\n\"You must...stop\nhim...\"",
@@ -5606,7 +5606,7 @@
                     "args": {
                         "text": [
                             "Chris yells to\nyou:",
-                            "\"Hyunwoo will\ndestroy APU!\"",
+                            "\"Hyunwoo will\ndestroy our\ncollege!\"",
                             "\"Surrender!\""
                         ]
                     }
@@ -5655,7 +5655,7 @@
                         "text": [
                             "Sebastian says:",
                             "\"Once Hyunwoo\nsummons his Magic\nto your room, ",
-                            "\"Slowly he'll grow\nin magic power!\nAnd destroy APU!"
+                            "\"Slowly he'll grow\nin magic power!\nAnd rise up!\""
                         ]
                     }
                 },
@@ -5700,8 +5700,8 @@
             "id": "383f822d-372a-469e-a12e-17120fe2babf",
             "name": "Scene 14",
             "backgroundId": "b4c9d954-6a32-4b78-a6f3-fd0bfc7bb586",
-            "x": 1465.4135603678897,
-            "y": 855.5194520285853,
+            "x": 1470.7895604203898,
+            "y": 856.2874520360853,
             "width": 20,
             "height": 18,
             "actors": [
@@ -6190,7 +6190,7 @@
                     "args": {
                         "text": [
                             "Hyunwoo yells\nacross the bridge\n",
-                            "\"After I destroy\nour dorm, I'll\ndestroy APU!\""
+                            "\"After I destroy\nour dorm, I'll\ngrow in power!\""
                         ]
                     }
                 },
@@ -6882,7 +6882,7 @@
                     "args": {
                         "variable": "32",
                         "__collapse": false,
-                        "__collapseElse": true
+                        "__collapseElse": false
                     },
                     "true": [
                         {
@@ -7275,7 +7275,7 @@
             "imageWidth": 171,
             "imageHeight": 174,
             "filename": "beforecastle.png",
-            "_v": 1572033966643
+            "_v": 1572395362116
         },
         {
             "id": "b4c9d954-6a32-4b78-a6f3-fd0bfc7bb586",
@@ -7285,7 +7285,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "bridge.png",
-            "_v": 1572033966643
+            "_v": 1572395362116
         },
         {
             "id": "82b684e3-c65f-44ed-98e6-20113f754f15",
@@ -7295,7 +7295,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "castleofdoomentrance.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "6fad1892-bcb2-4924-bd1c-1e4d03dfeabb",
@@ -7305,7 +7305,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cave.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "96e1971c-d71d-4696-ad51-059012acfc36",
@@ -7315,7 +7315,7 @@
             "imageWidth": 171,
             "imageHeight": 174,
             "filename": "courtyard.png",
-            "_v": 1572033966643
+            "_v": 1572395362117
         },
         {
             "id": "019eec80-3b62-47d4-9ec9-c7a17b6d37d5",
@@ -7325,7 +7325,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hellcave.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "0d933f1c-8399-4709-b623-a3c7086272d6",
@@ -7335,7 +7335,7 @@
             "imageWidth": 144,
             "imageHeight": 160,
             "filename": "hellcaverotate.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "b340b9a2-2865-4e05-91c0-148846a693c8",
@@ -7345,7 +7345,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "house.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "5bc3ad8e-85f3-4e07-9534-35404475a1c7",
@@ -7355,7 +7355,7 @@
             "imageWidth": 165,
             "imageHeight": 144,
             "filename": "inventory.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
@@ -7365,7 +7365,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "logo.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "814db2f2-1fc8-4348-9b6c-ebe384500285",
@@ -7375,7 +7375,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Map_scene.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -7385,7 +7385,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "menu.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "b9e810e6-55c4-44c9-9beb-3f5a0e80e12f",
@@ -7395,7 +7395,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "newworld.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "1e4b8f2f-cda8-4899-9f8a-a0f398663dcc",
@@ -7405,7 +7405,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "room.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "c5f25c45-da13-4d77-8432-3ca97b8fe508",
@@ -7415,7 +7415,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Scene_config.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "540b13f8-4949-40ec-825e-3b8b02ad4b1c",
@@ -7425,7 +7425,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Scene_items.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "cb63eda3-dac6-49bc-b1a6-2484ce2453b0",
@@ -7435,7 +7435,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Scene_main_Menu.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "40fda058-df90-4205-a239-fe77bce4fa79",
@@ -7445,7 +7445,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "stars.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "db59f86d-34c6-458a-8bbf-dd76d420efed",
@@ -7455,7 +7455,7 @@
             "imageWidth": 165,
             "imageHeight": 144,
             "filename": "theend1.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "4891e56c-3ee8-4a95-9251-1c4fc5aa486c",
@@ -7465,7 +7465,7 @@
             "imageWidth": 165,
             "imageHeight": 144,
             "filename": "thened2.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "f047ff0e-58ad-49fc-bd2b-ec84fc1f7ab3",
@@ -7475,7 +7475,7 @@
             "imageWidth": 165,
             "imageHeight": 144,
             "filename": "titlescreen.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         },
         {
             "id": "f3102db4-2273-411d-b33f-4d6f65959c60",
@@ -7485,7 +7485,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "underground.png",
-            "_v": 1572033966644
+            "_v": 1572395362117
         }
     ],
     "spriteSheets": [
@@ -7495,7 +7495,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "actor 1.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
@@ -7503,7 +7503,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cat.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
@@ -7511,7 +7511,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "checkbox.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "c14729a9-25fb-406b-84c5-e41f909e1377",
@@ -7519,7 +7519,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chris.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "b41086df-8b3c-4d95-90bc-6ea13294e14e",
@@ -7527,7 +7527,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cursor.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
@@ -7535,7 +7535,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "dog.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "58cad123-de6d-4c2b-b8fb-248f7899b263",
@@ -7543,7 +7543,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "dragonboss.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -7551,7 +7551,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
@@ -7559,7 +7559,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "fire.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "09ad70c6-3ce5-4b97-9e96-466221418a45",
@@ -7567,7 +7567,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "ice.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "e57819b6-24aa-49c7-9058-c8bd41c704f8",
@@ -7575,7 +7575,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "item 1.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "9ea923a0-9340-4f42-b391-c283a0d01a1b",
@@ -7583,7 +7583,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "justin.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "573b2989-526f-4169-b10f-47197942d6fd",
@@ -7591,7 +7591,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "luke.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "5e57b329-337d-4fb2-afc6-eb9390c3dcb1",
@@ -7599,7 +7599,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "monster full.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
@@ -7607,7 +7607,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc001.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "40dcd163-9f72-4861-8131-b01eb9baa000",
@@ -7615,7 +7615,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc002.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "52ad34df-f245-4b2a-b94c-a82af1002871",
@@ -7623,7 +7623,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "npc003.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "4dae01e5-a1b5-4ad9-87e3-3f80c06c12a8",
@@ -7631,7 +7631,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "player.png",
-            "_v": 1572033966647
+            "_v": 1572395362124
         },
         {
             "id": "43390a5a-1b76-42b6-98f2-67a8b729f3f4",
@@ -7639,7 +7639,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "playertwo.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "a0442b6a-634f-44da-9962-77938e3ed839",
@@ -7647,7 +7647,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "radio.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
@@ -7655,7 +7655,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "e20ce140-53a5-4b1b-9964-138ba0c86925",
@@ -7663,7 +7663,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sage.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "000a6dde-cb60-436e-b357-30a529daa139",
@@ -7671,7 +7671,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "savepoint.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "8a3d5eba-2ddc-4c06-a9d8-598f8fd7ef1b",
@@ -7679,7 +7679,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "sebastian.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "8da76fb6-6a6d-4e63-99f4-c7a56e11d494",
@@ -7687,7 +7687,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "sebastiantwo.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
@@ -7695,7 +7695,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "signpost.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "c1888775-11e1-4e76-a32c-1ce59667a2ae",
@@ -7703,7 +7703,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "sword.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "756eecf3-899e-49e5-9c8c-59133bfe9762",
@@ -7711,7 +7711,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "taylor.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         },
         {
             "id": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
@@ -7719,7 +7719,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "torch.png",
-            "_v": 1572033966647
+            "_v": 1572395362125
         }
     ],
     "music": [
@@ -7727,13 +7727,13 @@
             "id": "589297e2-39d6-404f-b736-61839584cced",
             "name": "goodnight",
             "filename": "goodnight.mod",
-            "_v": 1572033966649
+            "_v": 1572395362126
         },
         {
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1572033966649
+            "_v": 1572395362126
         }
     ]
 }
